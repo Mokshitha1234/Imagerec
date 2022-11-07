@@ -1,0 +1,46 @@
+body{
+    background-color: violet;
+}
+
+#paragraph{
+    color: white;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+
+.view{
+    color: white;
+}
+
+#camera{
+    border: 2px dashed;
+width: 350px;
+height: 300px;
+}
+
+#daddy{
+border-radius: 10px;
+border-style:ridge;
+    border-color:rgb(114, 114, 255);
+    background-color:rgb(114, 114, 255);
+    color: white;
+}
+
+#myself{
+    border-radius: 10px;
+    border-style:ridge;
+        border-color:rgb(114, 114, 255);
+        background-color:rgb(114, 114, 255);
+        color: white;
+    }
+    #mummy{
+        border-radius: 10px;
+        border-style:ridge;
+            border-color: rgb(114, 114, 255);
+            background-color:rgb(114, 114, 255);
+            color: white;
+        }
